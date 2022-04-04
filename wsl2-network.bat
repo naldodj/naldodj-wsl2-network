@@ -1,1 +1,1 @@
-pwsh -executionPolicy bypass -file "./wsl2-network.ps1"
+pwsh -executionPolicy bypass -file "./wsl2-network.ps1" %1
